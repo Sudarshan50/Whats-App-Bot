@@ -7,7 +7,7 @@ To install the needed module run the following command in your terminal:-
 <br>
 <br>
 The other module which is used is generate qr code to link the device:- 
-<br>
+<br><br>
 <img width="244" alt="Screenshot 2024-01-01 at 11 21 31 PM" src="https://github.com/Sudarshan50/Whats-App-Bot/assets/105160284/b992a4bd-77ad-45e2-8e1c-c6e8e5054db0">
 <br>
 <br>
